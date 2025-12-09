@@ -11,3 +11,10 @@ yarn install
 ```
 npm start
 ```
+
+## Notas
+
+Debemos de encuenta que omitiremos:
+node_modules
+.log
+.editorconfig
