@@ -18,3 +18,4 @@ Debemos de encuenta que omitiremos:
 node_modules
 .log
 .editorconfig
+.env
